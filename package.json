@@ -1,6 +1,6 @@
 {
   "name": "leftpad-faas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "leftpad function as a service",
   "main": "index.js",
   "scripts": {
