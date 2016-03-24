@@ -1,0 +1,31 @@
+{
+  "name": "left-pad-io-client",
+  "version": "0.1.0",
+  "description": "Client for left-pad.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankdejonge/node-left-pad-io.git"
+  },
+  "keywords": [
+    "left",
+    "pad",
+    "client"
+  ],
+  "author": "Frank de Jonge <info@frenky.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankdejonge/node-left-pad-io/issues"
+  },
+  "homepage": "https://github.com/frankdejonge/node-left-pad-io#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "qs": "^6.1.0"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
