@@ -1,7 +1,7 @@
 {
-  "name": "left-pad-io-client",
+  "name": "leftpad-faas",
   "version": "0.1.0",
-  "description": "Client for left-pad.io.",
+  "description": "leftpad function as a service",
   "main": "index.js",
   "scripts": {
     "test": "node test"
